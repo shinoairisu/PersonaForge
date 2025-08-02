@@ -1,3 +1,7 @@
 langchain-openai==0.3.28
 pyyaml
 tqdm
+loguru
+pyparsing
+aiofiles
+python-dotenv

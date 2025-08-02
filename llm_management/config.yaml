@@ -1,0 +1,15 @@
+llm:
+  openai:
+    gemini:
+      url: ""
+      key: ""
+    gork:
+      url: ""
+      key: ""
+    deepseek:
+      url: ""
+      key: ""
+    kimi:
+      url: ""
+      key: ""
+
