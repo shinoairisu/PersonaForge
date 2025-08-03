@@ -1,10 +1,7 @@
 import os
 from typing import Tuple
-from pathlib import Path
-from enum import Enum
 
 import yaml
-from pprint import pprint
 
 FOLDER = os.path.dirname(__file__)
 CONFIG_FILE = os.path.join(FOLDER, "config.yaml")
